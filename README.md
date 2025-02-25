@@ -20,10 +20,15 @@ A web application for managing clothing items, built with Laravel 11 (backend) a
    ```bash
    git clone https://github.com/yourusername/wardrobe-management.git
    cd wardrobe-management
-   ##install dependencies
+2. install dependencies
    composer install
-npm install
-##Usage
+   npm install
+3. Generate application key
+4. Run migrations
+5. Start the development server
+## Usage
 Register a new account or log in.
 Manage your clothing items from the dashboard.
+## Acknowledgement
+Thankyou for considering my application.
 
